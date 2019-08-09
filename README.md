@@ -1,1 +1,1 @@
-# ohak_android
+# PLEASE DO NOT USE FILES IN THIS REPO CHECK https://github.com/OpenHAK/OpenHAK_Apps
